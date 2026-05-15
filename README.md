@@ -51,8 +51,6 @@ Here are some of my projects:
   👉 https://github.com/hassraza/titanic-survival-dashboard
 
   
-*(Add/remove based on your actual repos)*
-
 ---
 
 ### 📊 GitHub Stats
